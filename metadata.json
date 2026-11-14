@@ -1,0 +1,6 @@
+{
+  "name": "OVA: ¡Somos Reporteros! Escribimos nuestra primera noticia",
+  "description": "Objeto Virtual de Aprendizaje interactivo para 4.° grado (Lengua Castellana - Proyecto Periódico Escolar ABP). Con nodos de decisión, personaje Reportero Lápiz, audiolectura y exportación a Google Classroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
